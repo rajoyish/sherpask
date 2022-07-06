@@ -11,7 +11,8 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Nunito', ...defaultTheme.fontFamily.sans],
+                sans: ['Akshar', ...defaultTheme.fontFamily.sans],
+                'primary': ['Akshar', 'sans-serif'],
             },
         },
     },
